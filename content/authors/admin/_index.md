@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My primary research interests are in public and labor economics.
+bio: Working on public and labor economics.
 
 # education:
 #  courses:
