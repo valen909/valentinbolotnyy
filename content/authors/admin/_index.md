@@ -27,7 +27,7 @@ bio: Public and Labor Economics.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:vbolotnyy@stanford.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/vbolotnyy
