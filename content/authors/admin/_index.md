@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Hoover Fellow
+role: Hoover Fellow, Kleinheinz Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Hoover Institution, Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
