@@ -52,4 +52,4 @@ email: ""
 # - Visitors
 ---
 
-I am a Kleinheinz Fellow at Stanford University's Hoover Institution. I work on topics across public and labor economics, often partnering with government agencies to improve public services.
+I am an economist on a 5-year research fellowship at Stanford University's Hoover Institution. I work on topics across public and labor economics, often partnering with government agencies to improve public services.
