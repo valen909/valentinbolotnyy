@@ -14,7 +14,9 @@ role: Kleinheinz Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Hoover Institution    Stanford University
+- name: > 
+Hoover Institution
+Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
