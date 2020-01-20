@@ -60,9 +60,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
----
+# user_groups:
+# - Researchers
+# - Visitors
+# ---
 
 I am a Hoover Fellow and Kleinheinz Fellow at Stanford University's Hoover Institution. I work on topics across public and labor economics with the aim of improving public services.
