@@ -33,7 +33,7 @@ social:
   link: https://twitter.com/vbolotnyy
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=EkLPEuEAAAAJ&hl
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -46,9 +46,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
 I am a Hoover Fellow and Kleinheinz Fellow at Stanford University's Hoover Institution. I work on topics across public and labor economics, often partnering with government agencies to improve public services.
