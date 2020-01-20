@@ -52,4 +52,4 @@ email: ""
 # - Visitors
 ---
 
-I am an economist on a 5-year research fellowship at Stanford University's Hoover Institution. I work on topics across public and labor economics, often partnering with government agencies to improve public services.
+I am an economist on a 5-year research fellowship at Stanford University's Hoover Institution. I work on topics across public and labor economics, often partnering with government agencies to improve public services and gain insight into social behavior. My recent projects have analyzed the gender earnings gap, public infrastructure procurement, immigration policies, and graduate student mental health. I received my PhD in Economics from Harvard University in 2019.
