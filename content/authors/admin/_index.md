@@ -3,7 +3,8 @@
 name: Valentin Bolotnyy
 
 # Username (this should match the folder name)
-authors: admin
+authors: 
+- admin
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +15,7 @@ role: Hoover Fellow
 # Organizations/Affiliations
 organizations:
 - name: Hoover Institution, Stanford University
-  url: ""
+  url: https://www.hoover.org/profiles/valentin-bolotnyy
 
 # Short bio (displayed in user profile at end of posts)
 bio: Working on public and labor economics.
@@ -62,6 +63,7 @@ email: ""
 # user_groups:
 # - Researchers
 # - Visitors
-# ---
+
+---
 
 I am a Hoover Fellow and Kleinheinz Fellow at Stanford University's Hoover Institution. I work on topics across public and labor economics with the aim of improving public services.
