@@ -1,7 +1,7 @@
 ---
 title: "Graduate Student Mental Health: Lessons from American Economics Departments"
 authors:
-- Valentin Bolotnyy
+- admin
 - Matthew Basilico
 - Paul Barreira
 
