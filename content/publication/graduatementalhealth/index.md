@@ -31,8 +31,8 @@ featured: false
 
 # links:
 # - name: ""
-   url: "files/BBB_GradMentalHealth.pdf"
-# url_pdf: https://www.valentinbolotnyy.com/files/BBB_GradMentalHealth.pdf
+# url:
+url_pdf: 'files/BBB_GradMentalHealth.pdf' 
 url_code: ''
 url_dataset: ''
 url_poster: ''
