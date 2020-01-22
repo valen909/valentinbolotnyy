@@ -20,7 +20,7 @@ publication_types: ["3"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: We study the mental health of graduate students at Economics PhD programs in the U.S. Using clinically validated surveys, we find that 18% of graduate students experience moderate or severe symptoms of depression and anxiety — more than three times the population average — and 11% report suicidal ideation in a two-week period. The average PhD student reports greater feelings of loneliness than does the average retired American. Only 26% of Economics students report feeling that their work is useful always or most of the time, compared with 70% of Economics faculty and 63% of the working age population. Depression and symptoms of anxiety increase with time in the program: 25% of students in years 5+ of their programs experience moderate or severe symptoms of depression or anxiety compared with 14.5% of first-year students. Many students with significant symptoms of mental distress are not in treatment. We provide recommendations for students and faculty on ways to improve student work conditions, productivity, and mental health.
+abstract: We study the mental health of graduate students at Economics PhD programs in the U.S. Using clinically validated surveys, we find that 18% of graduate students experience moderate or severe symptoms of depression and anxiety — more than three times the population average — and 11% report suicidal ideation in a two-week period.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
