@@ -30,7 +30,7 @@ links:
 - icon: 
   icon_pack: 
   name: Website
-  url: https://www.immigrantdoctors.com
+  url: https://www.immigrantdoctors.org
 
 url_pdf: ''
 url_code: ''
