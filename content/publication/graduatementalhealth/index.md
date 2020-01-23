@@ -31,8 +31,19 @@ summary: "We study the mental health of graduate students at economics PhD progr
 # featured: false
 
 # links:
+# - name: 
+#  url: 
+url_pdf: "files/BBB_GradMentalHealth.pdf"  
+url_code: 
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
 - name: "Student Survey"
- url: "files/Student_MH_Survey.pdf"
+  url: 
 url_pdf: "files/BBB_GradMentalHealth.pdf"  
 url_code: 
 url_dataset: ''
