@@ -28,11 +28,9 @@ summary: "We study the mental health of graduate students at economics PhD progr
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
- links:
- - name: Follow
-   url: https://twitter.com
-   icon_pack: fab
-   icon: twitter
+links:
+ - name: "Follow"
+url: https://twitter.com
 url_pdf: "files/BBB_GradMentalHealth.pdf"
 url_code: '' 
 url_dataset: ''
