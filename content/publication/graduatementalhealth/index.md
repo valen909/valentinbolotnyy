@@ -42,16 +42,8 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-- name: "Student Survey"
-  url: 
-url_pdf: "files/BBB_GradMentalHealth.pdf"  
-url_code: 
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_custom = [{name = "Student Survey", url = "files/Student_MH_Survey.pdf"},
+              {name = "Faculty Survey", url = "files/Faculty_MH_Survey.pdf"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
