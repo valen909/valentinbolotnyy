@@ -1,9 +1,9 @@
 ---
 title: "The Immigrant Doctors Project"
-# authors:
-# date: "2019-09-17T00:00:00Z"
-# doi: ""
-# publication: ""
+authors: ""
+date: ""
+doi: ""
+publication: ""
 featured: true
 
 # Schedule page publish date (NOT publication's date).
