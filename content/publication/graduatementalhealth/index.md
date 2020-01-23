@@ -35,7 +35,7 @@ summary: "We study the mental health of graduate students at economics PhD progr
 #  url: ""
 
 url_pdf: "files/BBB_GradMentalHealth.pdf"
-url_code: 
+url_code: '' 
 url_dataset: ''
 url_poster: ''
 url_project: ''
