@@ -28,10 +28,8 @@ summary: "We study the mental health of graduate students at economics PhD progr
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
- - name: "Follow"
-url: https://twitter.com
 url_pdf: "files/BBB_GradMentalHealth.pdf"
+url: "files/BBB_GradMentalHealth.pdf""
 url_code: '' 
 url_dataset: ''
 url_poster: ''
@@ -39,7 +37,8 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-url_custom: [{name = 'Student Survey', url = 'files/Student_MH_Survey.pdf'}]
+
+# url_custom: [{name = 'Student Survey', url = 'files/Student_MH_Survey.pdf'}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
