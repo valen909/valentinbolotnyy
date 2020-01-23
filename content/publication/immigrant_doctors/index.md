@@ -20,7 +20,7 @@ featured: true
 # publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: "The Immigrant Doctors Project is an effort by former Harvard and MIT Economics PhD students to demonstrate the areas of the United States that rely most heavily on immigrant doctors from Iran, Libya, Somalia, Sudan, Syria, and Yemen."
+summary: "The Immigrant Doctors Project is an effort by (former) Harvard and MIT Economics PhD students to show which areas of the United States rely most heavily on immigrant doctors from Iran, Libya, Somalia, Sudan, Syria, and Yemen."
 
 # tags:
 # - Source Themes
