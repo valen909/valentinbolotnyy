@@ -33,6 +33,7 @@ summary: "We study the mental health of graduate students at economics PhD progr
 # links:
 # - name: ""
 #  url: ""
+
 url_pdf: "files/BBB_GradMentalHealth.pdf"
 url_code: 
 url_dataset: ''
@@ -43,8 +44,8 @@ url_source: ''
 url_video: ''
 
 [[url_custom]]
-- name = "Student Survey"
-url = "files/Student_MH_Survey.pdf"
+- name: "Student Survey"
+url: "files/Student_MH_Survey.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
