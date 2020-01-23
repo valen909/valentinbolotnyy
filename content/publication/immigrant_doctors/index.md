@@ -1,7 +1,7 @@
 ---
 title: "The Immigrant Doctors Project"
 authors: ""
-date: ""
+date: "2017-03-06"
 doi: ""
 publication: ""
 featured: true
@@ -19,8 +19,6 @@ featured: true
 # publication: "*Journal of Source Themes*, 1(1)"
 # publication_short: ""
 
-abstract: "The Immigrant Doctors Project is an effort by Harvard and MIT Economics PhD students to demonstrate the areas of the United States that rely most heavily on immigrant doctors from Iran, Libya, Somalia, Sudan, Syria, and Yemen."
-
 # Summary. An optional shortened abstract.
 summary: "The Immigrant Doctors Project is an effort by Harvard and MIT Economics PhD students to demonstrate the areas of the United States that rely most heavily on immigrant doctors from Iran, Libya, Somalia, Sudan, Syria, and Yemen."
 
@@ -30,7 +28,7 @@ summary: "The Immigrant Doctors Project is an effort by Harvard and MIT Economic
 
 links:
 name: Website
-url: 'www.immigrantdoctors.org/'
+url: www.immigrantdoctors.org/
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -43,7 +41,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
