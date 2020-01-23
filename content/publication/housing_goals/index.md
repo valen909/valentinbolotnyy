@@ -15,8 +15,8 @@ doi: ""
 # publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
- publication: "Real Estate Economics"
- publication_short: "Real Estate Economics"
+ publication: "*Real Estate Economics, 1* (1)"
+ publication_short: ""
 
 abstract: "I use regression discontinuity analysis to measure the effect of one of the Affordable Housing Goals, the Underserved Areas Goal (UAG), on the number of whole single‐family mortgages purchased by Fannie Mae and Freddie Mac (GSEs) in undeserved census tracts for 1996–2002. Focusing additionally on tracts that became UAG‐eligible in 2005–2006, I measure the effect of the UAG during peak years for the subprime market. The results suggest a small UAG effect and challenge the view that the goals caused the GSEs to supply substantially more credit to high‐risk borrowers than they otherwise would have supplied during the subprime boom."
 
