@@ -3,7 +3,7 @@ title: "The Government-Sponsored Enterprises and the Mortgage Crisis: The Role o
 authors:
 - admin
 date: "2013-08-30T00:00:00Z"
-doi: ""
+doi: "Real Estate Economics"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
