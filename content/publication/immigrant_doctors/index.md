@@ -1,5 +1,6 @@
----
 featured = true
+
+---
 title: "Graduate Student Mental Health: Lessons from American Economics Departments"
 authors:
 - admin
