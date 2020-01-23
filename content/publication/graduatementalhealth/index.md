@@ -31,10 +31,10 @@ summary: "We study the mental health of graduate students at economics PhD progr
 # featured: false
 
 # links:
-# - name: ""
-# url:
+- name: "Student Survey"
+ url: "files/Student_MH_Survey.pdf"
 url_pdf: "files/BBB_GradMentalHealth.pdf"  
-url_survey: "files/Student_MH_Survey.pdf"
+url_code: 
 url_dataset: ''
 url_poster: ''
 url_project: ''
