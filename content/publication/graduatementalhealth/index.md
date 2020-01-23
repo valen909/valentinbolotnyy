@@ -6,6 +6,7 @@ authors:
 - Paul Barreira 
 date: "2020-01-17T00:00:00Z"
 doi: ""
+publication: "*Working Paper*"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
