@@ -42,9 +42,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-
-[[url_custom]]
-name: "Student Survey"
+- name: "Student Survey"
 url: "files/Student_MH_Survey.pdf"
 
 # Featured image
