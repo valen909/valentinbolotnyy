@@ -29,8 +29,8 @@ summary: "The Immigrant Doctors Project is an effort by Harvard and MIT Economic
 # featured: false
 
 links:
-- name: "Website"
-url: "https://www.immigrantdoctors.org/"
+name: Website
+url: 'https://immigrantdoctors.org/'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
