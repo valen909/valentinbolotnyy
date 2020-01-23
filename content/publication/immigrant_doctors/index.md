@@ -59,3 +59,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
+14 million doctors' appointments are provided each year by physicians from Iran, Libya, Somalia, Sudan, Syria and Yemen — the six countries targeted by Executive Order 13780 on March 6th, 2017. 2.3 million of these appointments are provided in areas with physician shortages. The physicians are spread out across America, providing vital services throughout the Rust Belt and Appalachia, especially in Ohio, Michigan, West Virginia, Indiana, and Kentucky. 
+
+For more information: https://www.immigrantdoctors.org/
