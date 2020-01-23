@@ -29,12 +29,6 @@ summary: "We study the mental health of graduate students at economics PhD progr
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 
-links: 
-- icon: 
-  icon_pack: 
-  name: Student Survey
-  url: files/Student_MH_Survey.pdf
-
 url_pdf: "files/BBB_GradMentalHealth.pdf"
 url_code: '' 
 url_dataset: ''
@@ -43,6 +37,17 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+
+links: 
+- icon: 
+  icon_pack: 
+  name: Student Survey
+  url: files/Student_MH_Survey.pdf
+  
+- icon:
+  icon_pack:
+  name: Faculty Survey
+  url: files/Faculty_MH_Survey.pdf
 
 # url_custom: [{name = 'Student Survey', url = 'files/Student_MH_Survey.pdf'}]
 
