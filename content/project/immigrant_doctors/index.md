@@ -1,7 +1,7 @@
 ---
 title: The Immigrant Doctors Project
 summary: "The [Immigrant Doctors Project](https://www.immigrantdoctors.org) is an effort by (former) Harvard and MIT Economics PhD students to highlight the areas of the United States that rely most heavily on immigrant doctors from Iran, Libya, Somalia, Sudan, Syria, and Yemen."
-date: "2017-03-06T00:00:00Z"
+date: ""
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
