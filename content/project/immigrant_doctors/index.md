@@ -7,9 +7,9 @@ date: "2017-03-06T00:00:00Z"
 external_link: ""
 
 image:
-  placement: 1
+  placement: 2
   caption: 
-  focal_point: Smart
+  focal_point: Center
 
 links:
 - icon:
