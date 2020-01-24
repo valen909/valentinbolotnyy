@@ -59,8 +59,4 @@ My recent projects have analyzed the gender earnings gap, public infrastructure 
 
 I received a PhD in Economics from Harvard University and a BA in Economics and International Relations from Stanford University.
 
-Email: vbolotnyy@stanford.edu
-
-Office: Herbert Hoover Memorial Building (HHMB) 107
-434 Galvez Mall
-Stanford, CA 94305
+Email: vbolotnyy@stanford.edu  Office: Herbert Hoover Memorial Building (HHMB) 107  434 Galvez Mall  Stanford, CA 94305
