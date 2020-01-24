@@ -1,15 +1,14 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
-tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+title: The Immigrant Doctors Project
+summary: "The Immigrant Doctors Project is an effort by (former) Harvard and MIT Economics PhD students to show which areas of the United States rely most heavily on immigrant doctors from Iran, Libya, Somalia, Sudan, Syria, and Yemen."
+date: "2017-03-06T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  placement:
+  caption: 
   focal_point: Smart
 
 links:
