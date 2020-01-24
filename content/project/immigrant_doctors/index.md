@@ -9,13 +9,9 @@ external_link: ""
 image:
   placement: 2
   caption: 
-  focal_point: Center
+  focal_point: Smart
 
 links:
-- icon:
-  icon_pack:
-  name: Website
-  url: https://www.immigrantdoctors.org
 url_code: ""
 url_pdf: ""
 url_slides: ""
