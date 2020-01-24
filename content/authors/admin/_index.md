@@ -26,15 +26,16 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:vbolotnyy@stanford.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/vbolotnyy
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=EkLPEuEAAAAJ&hl
+  
+# - icon: envelope
+# icon_pack: fas
+#  link: "mailto:vbolotnyy@stanford.edu"  # For a direct email link, use "mailto:test@example.org".
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -59,3 +60,6 @@ My recent projects have analyzed the gender earnings gap, public infrastructure 
 I received a PhD in Economics from Harvard University and a BA in Economics and International Relations from Stanford University.
 
 Email: vbolotnyy@stanford.edu
+Office: Herbert Hoover Memorial Building (HHMB) 107
+434 Galvez Mall
+Stanford, CA 94305
