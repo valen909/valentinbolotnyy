@@ -148,7 +148,7 @@ gravatar = false
 main_menu = {align = "l", show_logo = true}
 
 # Show estimated reading time for posts? (true/false)
-reading_time = true
+reading_time = false
 
 # Display next/previous section pager? (true/false)
 section_pager = false
@@ -158,7 +158,7 @@ docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 sharing = false
 
 # Link authors to their profile page? (true/false)
-link_authors = true
+link_authors = false
 
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
