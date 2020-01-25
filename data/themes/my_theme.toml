@@ -10,7 +10,8 @@ primary = "#0d2259"
 
 # Menu
 menu_primary = "#fff"
-menu_text = "#34495e"
+menu_text = "#1a41ad"
+# menu_text = "#34495e"
 menu_text_active = "#0d2259"
 # menu_text_active = "#2962ff"
 menu_title = "#0d0a0a"
