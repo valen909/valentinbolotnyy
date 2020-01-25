@@ -7,6 +7,13 @@
   name = "About"
   url = "#about"
   weight = 10
+  
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+ [[main]]
+    name = "CV"
+    url = "files/bolotnyy_cv_jul_2019.pdf"
+    weight = 20
 
 # [[main]]
 # name = "Posts"
@@ -14,23 +21,19 @@
 #  weight = 20
 
 [[main]]
-  name = "Research Papers"
+  name = "Research"
   url = "#publications"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Other Projects"
   url = "#projects"
-  weight = 30
+  weight = 40
 
 # [[main]]
 #  name = "Contact"
 #  url = "#contact"
 #  weight = 40
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- [[main]]
-    name = "CV"
-    url = "files/bolotnyy_cv_jul_2019.pdf"
-    weight = 40
+
+
