@@ -75,3 +75,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
+Press:
+
+[Parsing the Gender Pay Gap](https://www.wsj.com/articles/parsing-the-gender-pay-gap-1542917969) -- "*The Wall Street Journal*"
