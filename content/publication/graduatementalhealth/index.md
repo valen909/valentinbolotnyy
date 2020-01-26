@@ -74,3 +74,10 @@ projects: []
 slides: example
 ---
 
+<b>Press</b>:
+
+["Graduate School Can Have Terrible Effects on People's Mental Health"](https://www.theatlantic.com/education/archive/2018/11/anxiety-depression-mental-health-graduate-school/576769/) — *The Atlantic*
+
+["A Very Mixed Record on Grad Student Mental Health"](https://www.insidehighered.com/news/2018/12/06/new-research-graduate-student-mental-well-being-says-departments-have-important) — *Inside Higher Ed*
+
+["The Emotional Toll of Graduate School"](https://blogs.scientificamerican.com/observations/the-emotional-toll-of-graduate-school/) — *Scientific American Blog*
