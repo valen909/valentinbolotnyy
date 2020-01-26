@@ -50,13 +50,6 @@ links:
   name: Faculty Survey
   url: files/Faculty_MH_Survey.pdf
 
-"Press:"
-
-- icon:
-  icon_pack:
-  name: WSJ
-  url: "www.wsj.com/articles/parsing-the-gender-pay-gap-1542917969"
-
 # url_custom: [{name = 'Student Survey', url = 'files/Student_MH_Survey.pdf'}]
 
 # Featured image
@@ -80,3 +73,8 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
+Press:
+
+[Parsing the Gender Pay Gap](https://www.wsj.com/articles/parsing-the-gender-pay-gap-1542917969) -- The Wall Street Journal
+
