@@ -76,8 +76,8 @@ projects: []
 slides: example
 ---
 
-Press:
+<b>Press</b>:
 
-[Parsing the Gender Pay Gap](https://www.wsj.com/articles/parsing-the-gender-pay-gap-1542917969) -- *The Wall Street Journal*
+["Parsing the Gender Pay Gap"](https://www.wsj.com/articles/parsing-the-gender-pay-gap-1542917969) — *The Wall Street Journal*
 
-[The Roots of the Gender Pay Gap are Deeper than Discrimination](https://qz.com/1567008/the-systemic-reasons-why-the-gender-pay-gap-increases-over-time/) -- *Quartz*
+["The Roots of the Gender Pay Gap are Deeper than Discrimination"](https://qz.com/1567008/the-systemic-reasons-why-the-gender-pay-gap-increases-over-time/) — *Quartz*
