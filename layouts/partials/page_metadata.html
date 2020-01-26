@@ -27,7 +27,6 @@
   </span>
   {{ end }}
 
-<!--
   {{ if and (eq $is_list 1) (eq $page.Type "publication") }}
   <span class="middot-divider"></span>
   <span class="pub-publication">
@@ -38,7 +37,6 @@
     {{ end }}
   </span>
   {{ end }}
--->
 
   {{ if and (eq $page.Type "post") (not (or (eq site.Params.reading_time false) (eq $page.Params.reading_time false))) }}
   <span class="middot-divider"></span>
