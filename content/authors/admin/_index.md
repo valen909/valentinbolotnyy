@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Kleinheinz Fellow
+# role: Kleinheinz Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Hoover Institution
+- name: Kleinheinz Fellow
   url: "https://www.hoover.org/profiles/valentin-bolotnyy"
 
 # - name: Stanford University
