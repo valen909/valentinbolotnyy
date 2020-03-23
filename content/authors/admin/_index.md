@@ -15,8 +15,8 @@ role: Kleinheinz Fellow
 # Organizations/Affiliations
 organizations:
 - name: Hoover Institution
-- name: Stanford University
   url: "https://www.hoover.org/profiles/valentin-bolotnyy"
+- name: Stanford University
 
 # Short bio (displayed in user profile at end of posts)
 # bio: Public and Labor Economics.
