@@ -17,7 +17,9 @@ organizations:
 - name: Kleinheinz Fellow
   url: "https://www.hoover.org/profiles/valentin-bolotnyy"
 - name: Hoover Institution
+  url: "https://www.hoover.org/"
 - name: Stanford University
+  url: "https://www.stanford.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: Public and Labor Economics.
@@ -56,7 +58,7 @@ social:
 # - Visitors
 ---
 
-I am an economist on a [5-year research fellowship](https://www.hoover.org/hoover-fellows-program) at [Stanford University](https://www.stanford.edu)'s [Hoover Institution](https://www.hoover.org). I work on topics across public and labor economics, often partnering with government agencies to improve public services and gain insight into social behavior. 
+I am an economist on a [5-year research fellowship](https://www.hoover.org/hoover-fellows-program) at Stanford University's Hoover Institution. I work on topics across public and labor economics, often partnering with government agencies to improve public services and gain insight into social behavior. 
 
 I received a PhD in Economics from Harvard University and a BA in Economics and International Relations from Stanford University.
 
