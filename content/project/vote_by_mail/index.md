@@ -1,6 +1,6 @@
 ---
 title: Counting on Coronavirus Luck is Not a Fall Election Strategy. Best Bet is Vote by Mail.
-summary: "USA Today Opinion with Larry Diamond. Vote by mail is not a partisan plot, it's critical infrastructure to assure a safe election in a pandemic. Now is the time to invest and prepare."
+summary: "May 4th, 2020. Opinion with [Larry Diamond](https://www.hoover.org/profiles/larry-diamond). Vote by mail is not a partisan plot, it's critical infrastructure to assure a safe election in a pandemic. Now is the time to invest and prepare."
 date: ""
 profile: false
 
