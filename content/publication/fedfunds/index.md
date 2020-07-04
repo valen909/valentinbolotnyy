@@ -1,7 +1,7 @@
 ---
 title: "The Federal Funds Network and Monetary Policy Transmission: Evidence from the 2007–2009 Financial Crisis"
 authors:
-- [Daniel O. Beltran](https://www.federalreserve.gov/econres/daniel-o-beltran.htm)
+- Daniel O. Beltran
 - admin
 - Elizabeth Klee
 date: "2019-12-31T00:00:00Z"
