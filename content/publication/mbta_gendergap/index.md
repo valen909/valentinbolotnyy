@@ -3,13 +3,13 @@ title: "Why Do Women Earn Less Than Men? Evidence from Bus and Train Operators"
 authors:
 - admin
 - Natalia Emanuel
-date: "2019-07-05T00:00:00Z"
+date: "2020-07-20T00:00:00Z"
 doi: ""
 publication: "*Working Paper*"
 profile: false
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,22 +21,18 @@ publishDate: "2017-01-01T00:00:00Z"
 # publication: "*Journal of Source Themes, 1*(1)"
 # publication_short: ""
 
-abstract: "Female workers earn $0.89 for each male-worker dollar even in a unionized workplace where tasks, wages, and promotion schedules are identical for men and women by design. We use administrative time card data on bus and train operators to show that the earnings
-gap can be explained by female operators taking, on average, 1.5 fewer hours of overtime
-and 1.3 more hours of unpaid time-off per week than male operators. Female operators,
-especially those who have dependents, pursue schedule conventionality, predictability, and
-controllability more than male operators. Analyzing two policy changes, we demonstrate
-that while reducing schedule controllability can reduce the earnings gap, it can also make
-workers—particularly female workers—worse off."
+abstract: "Female workers earn $0.89 for each male-worker dollar even in a unionized workplace where tasks, wages, and promotion schedules are identical for men and women by design. Using administrative time-card data on bus and train operators, we show that this earnings gap can be explained by female operators taking fewer hours of overtime and more hours of unpaid time-off than male operators. Female operators, especially those with dependents, pursue schedule conventionality, predictability, and controllability more than male operators. We demonstrate that while reducing schedule controllability can limit the earnings gap, it can also hurt female workers and their productivity."
+
+# "Female workers earn $0.89 for each male-worker dollar even in a unionized workplace where tasks, wages, and promotion schedules are identical for men and women by design. We use administrative time card data on bus and train operators to show that the earnings
+# gap can be explained by female operators taking, on average, 1.5 fewer hours of overtime
+# and 1.3 more hours of unpaid time-off per week than male operators. Female operators,
+# especially those who have dependents, pursue schedule conventionality, predictability, and
+# controllability more than male operators. Analyzing two policy changes, we demonstrate
+# that while reducing schedule controllability can reduce the earnings gap, it can also make
+# workers—particularly female workers—worse off."
 
 # Summary. An optional shortened abstract.
-summary: "Female workers earn $0.89 for each male-worker dollar even in a unionized workplace where tasks, wages, and promotion schedules are identical for men and women by design. We use administrative time card data on bus and train operators to show that the earnings
-gap can be explained by female operators taking, on average, 1.5 fewer hours of overtime
-and 1.3 more hours of unpaid time-off per week than male operators. Female operators,
-especially those who have dependents, pursue schedule conventionality, predictability, and
-controllability more than male operators. Analyzing two policy changes, we demonstrate
-that while reducing schedule controllability can reduce the earnings gap, it can also make
-workers—particularly female workers—worse off."
+summary: "Female workers earn $0.89 for each male-worker dollar even in a unionized workplace where tasks, wages, and promotion schedules are identical for men and women by design. Using administrative time-card data on bus and train operators, we show that this earnings gap can be explained by female operators taking fewer hours of overtime and more hours of unpaid time-off than male operators. Female operators, especially those with dependents, pursue schedule conventionality, predictability, and controllability more than male operators. We demonstrate that while reducing schedule controllability can limit the earnings gap, it can also hurt female workers and their productivity."
 
 tags:
 # - Source Themes
@@ -45,7 +41,7 @@ tags:
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "files/be_gendergap.pdf"
+url_pdf: "files/be_gendergap_july2020.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
