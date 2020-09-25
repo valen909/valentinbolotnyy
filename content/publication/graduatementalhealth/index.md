@@ -40,6 +40,11 @@ url_source: ''
 url_video: ''
 
 links: 
+- icon:
+  icon_pack:
+  name: Slides
+  url: files/GradMentalHealth_Slides.pdf
+
 - icon: 
   icon_pack: 
   name: Student Survey
