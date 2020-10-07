@@ -3,7 +3,7 @@ title: "Why Do Women Earn Less Than Men? Evidence from Bus and Train Operators"
 authors:
 - admin
 - Natalia Emanuel
-date: "2020-07-20T00:00:00Z"
+date: "2020-10-06T00:00:00Z"
 doi: ""
 publication: "*Working Paper*"
 profile: false
@@ -41,7 +41,7 @@ tags:
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "files/be_gendergap_july2020.pdf"
+url_pdf: "files/be_gendergap_oct2020.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
