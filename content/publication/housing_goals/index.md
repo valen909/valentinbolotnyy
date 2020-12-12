@@ -41,6 +41,11 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
+- icon: 
+  icon_pack: 
+  name: Earlier Version
+  url: files/Bolotnyy_HousingGoals_FEDS2012.pdf
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
