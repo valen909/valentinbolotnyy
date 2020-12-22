@@ -72,8 +72,12 @@ projects: []
 slides: example
 ---
 
-<b>Press</b>:
+<b>Coverage</b>:
 
 ["Parsing the Gender Pay Gap"](https://www.wsj.com/articles/parsing-the-gender-pay-gap-1542917969) — *The Wall Street Journal*
 
 ["The Roots of the Gender Pay Gap are Deeper than Discrimination"](https://qz.com/1567008/the-systemic-reasons-why-the-gender-pay-gap-increases-over-time/) — *Quartz*
+
+["Family Obligations Widen Gender-Pay Gap, Research Suggests"](https://www.shrm.org/resourcesandtools/hr-topics/compensation/pages/effect-of-choices-on-gender-wage-gap.aspx) — *Society for Human Resource Management*
+
+["Why Do Women Earn Less Than Men? Evidence from Train and Bus Operators"](https://marginalrevolution.com/marginalrevolution/2018/11/women-earn-less-men-evidence-train-bus-operators.html) — *Marginal Revolution*
