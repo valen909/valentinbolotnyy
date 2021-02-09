@@ -4,7 +4,7 @@ authors:
 - admin
 - Matthew Basilico
 - Paul Barreira 
-date: "2020-09-08T00:00:00Z"
+date: "2021-02-08T00:00:00Z"
 doi: ""
 publication: "*Working Paper*"
 profile: false
@@ -16,16 +16,18 @@ profile: false
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-# publication_types: ["3"]
+# publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "*Journal of Source Themes, 1*(1)"
+# publication: "Forthcoming, *Journal of Economic Literature*(1)"
 # publication_short: ""
 
-abstract: "We study the mental health of graduate students at 8 top-ranked economics PhD programs in the U.S. Using clinically validated surveys, we find that 24.8% experience moderate or severe symptoms of depression or anxiety - more than two times the population average. Though sample selection concerns exist, alternative estimates nonetheless suggest higher prevalence rates of such symptoms than in the general population. Mental health issues are especially prevalent at the end of the PhD program: 36.7% of students in years 6+ of their program experience moderate or severe symptoms of depression or anxiety, versus 21.2% of first-year students. 25.2% of economics students with these symptoms are in treatment, compared to 41.4% of graduate students in other programs. A similar percentage of economics students (40-50%) say they cannot honestly discuss mental health with advisers as say they cannot honestly discuss research progress or non-academic career options. Only 26% find their work to be useful always or most of the time, compared to 70% of economics faculty and 63% of the working age population. We provide recommendations for students, faculty, and administrators on ways to improve graduate student mental health."
+abstract: "We study the mental health of graduate students at 8 top-ranked economics PhD programs in the U.S. using clinically validated surveys. We find that 24.8% experience moderate or severe symptoms of depression or anxiety - more than two times the population average. Though our response rate was 45.1% and sample selection concerns exist, conservative lower bounds nonetheless suggest higher prevalence rates of such symptoms than in the general population. Mental health issues are especially prevalent at the end of the PhD program: 36.7% of students in years 6+ of their program experience moderate or severe symptoms of depression or anxiety, versus 21.2% of first-year students. 25.2% of economics students with these symptoms are in treatment, compared to 41.4% of graduate students in other programs. A similar percentage of economics students (40-50%) say they cannot honestly discuss mental health with advisers as say they cannot honestly discuss research progress or non-academic career options. Only 26% find their work to be useful always or most of the time, compared to 70% of economics faculty and 63% of the working age population. We provide recommendations for students, faculty, and administrators on
+ways to improve graduate student mental health."
 
 # Summary. An optional shortened abstract.
-summary: "We study the mental health of graduate students at 8 top-ranked economics PhD programs in the U.S. Using clinically validated surveys, we find that 24.8% experience moderate or severe symptoms of depression or anxiety - more than two times the population average. Though sample selection concerns exist, alternative estimates nonetheless suggest higher prevalence rates of such symptoms than in the general population. Mental health issues are especially prevalent at the end of the PhD program: 36.7% of students in years 6+ of their program experience moderate or severe symptoms of depression or anxiety, versus 21.2% of first-year students. 25.2% of economics students with these symptoms are in treatment, compared to 41.4% of graduate students in other programs. A similar percentage of economics students (40-50%) say they cannot honestly discuss mental health with advisers as say they cannot honestly discuss research progress or non-academic career options. Only 26% find their work to be useful always or most of the time, compared to 70% of economics faculty and 63% of the working age population. We provide recommendations for students, faculty, and administrators on ways to improve graduate student mental health."
+summary: "We study the mental health of graduate students at 8 top-ranked economics PhD programs in the U.S. using clinically validated surveys. We find that 24.8% experience moderate or severe symptoms of depression or anxiety - more than two times the population average. Though our response rate was 45.1% and sample selection concerns exist, conservative lower bounds nonetheless suggest higher prevalence rates of such symptoms than in the general population. Mental health issues are especially prevalent at the end of the PhD program: 36.7% of students in years 6+ of their program experience moderate or severe symptoms of depression or anxiety, versus 21.2% of first-year students. 25.2% of economics students with these symptoms are in treatment, compared to 41.4% of graduate students in other programs. A similar percentage of economics students (40-50%) say they cannot honestly discuss mental health with advisers as say they cannot honestly discuss research progress or non-academic career options. Only 26% find their work to be useful always or most of the time, compared to 70% of economics faculty and 63% of the working age population. We provide recommendations for students, faculty, and administrators on
+ways to improve graduate student mental health."
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
