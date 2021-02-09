@@ -6,7 +6,7 @@ authors:
 - Paul Barreira 
 date: "2021-02-08T00:00:00Z"
 doi: ""
-publication: "*Working Paper*"
+publication: "Forthcoming, *Journal of Economic Literature*"
 profile: false
 
 # Schedule page publish date (NOT publication's date).
