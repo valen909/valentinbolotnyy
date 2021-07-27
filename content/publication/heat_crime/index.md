@@ -1,12 +1,11 @@
 ---
-title: "Graduate Student Mental Health: Lessons from American Economics Departments"
+title: "Heat, Crime, and Punishment"
 authors:
 - admin
-- Matthew Basilico
-- Paul Barreira 
-date: "2021-02-08T00:00:00Z"
+- A. Patrick Behrer
+date: "2021-07-26T00:00:00Z"
 doi: ""
-publication: "Forthcoming, *Journal of Economic Literature*"
+publication: "Economics Working Paper 2114, *Hoover Institution Economics Working Paper Series*"
 profile: false
 
 # Schedule page publish date (NOT publication's date).
@@ -22,17 +21,15 @@ profile: false
 # publication: "Forthcoming, *Journal of Economic Literature*(1)"
 # publication_short: ""
 
-abstract: "We study the mental health of graduate students at 8 top-ranked economics PhD programs in the U.S. using clinically validated surveys. We find that 24.8% experience moderate or severe symptoms of depression or anxiety - more than two times the population average. Though our response rate was 45.1% and sample selection concerns exist, conservative lower bounds nonetheless suggest higher prevalence rates of such symptoms than in the general population. Mental health issues are especially prevalent at the end of the PhD program: 36.7% of students in years 6+ of their program experience moderate or severe symptoms of depression or anxiety, versus 21.2% of first-year students. 25.2% of economics students with these symptoms are in treatment, compared to 41.4% of graduate students in other programs. A similar percentage of economics students (40-50%) say they cannot honestly discuss mental health with advisers as say they cannot honestly discuss research progress or non-academic career options. Only 26% find their work to be useful always or most of the time, compared to 70% of economics faculty and 63% of the working age population. We provide recommendations for students, faculty, and administrators on
-ways to improve graduate student mental health."
+abstract: "In much of the world, a rapidly changing climate will result in more frequent extreme temperatures. Using administrative criminal records from Texas, we show how heat affects the behavior of key individuals involved in criminal events: defendants, police officers, prosecutors, and judges. We find that arrests increase by up to 15% on extremely hot days, driven by increases in violent crime rather than by changes in police behavior. We see no evidence that heat on the charging day impacts prosecutorial decisions, likely because prosecutors, like police officers, share emotional and cognitive burdens across team members. Working alone under time pressure, judges are less likely to dismiss cases, more likely to issue longer prison sentences, and more likely to levy higher fines when ruling on hot days. Our results suggest heat's negative impact on emotion and cognition leads to negative outcomes across situations and professions, even in Texas where air conditioning is nearly universal. We provide evidence that higher income, newer housing, more team work, and less accessible weapons may decrease the adverse effects of heat. Our adaptation-inclusive projections of the impact of future climate change suggest, however, that while adaptation will significantly mitigate future impacts, it will not eliminate them. Even with adaptation, climate change will likely also have substantial distributional consequences, with impacts on crime in more vulnerable communities up to 70% larger than in less vulnerable ones."
 
 # Summary. An optional shortened abstract.
-summary: "We study the mental health of graduate students at 8 top-ranked economics PhD programs in the U.S. using clinically validated surveys. We find that 24.8% experience moderate or severe symptoms of depression or anxiety - more than two times the population average. Though our response rate was 45.1% and sample selection concerns exist, conservative lower bounds nonetheless suggest higher prevalence rates of such symptoms than in the general population. Mental health issues are especially prevalent at the end of the PhD program: 36.7% of students in years 6+ of their program experience moderate or severe symptoms of depression or anxiety, versus 21.2% of first-year students. 25.2% of economics students with these symptoms are in treatment, compared to 41.4% of graduate students in other programs. A similar percentage of economics students (40-50%) say they cannot honestly discuss mental health with advisers as say they cannot honestly discuss research progress or non-academic career options. Only 26% find their work to be useful always or most of the time, compared to 70% of economics faculty and 63% of the working age population. We provide recommendations for students, faculty, and administrators on
-ways to improve graduate student mental health."
+summary: "In much of the world, a rapidly changing climate will result in more frequent extreme temperatures. Using administrative criminal records from Texas, we show how heat affects the behavior of key individuals involved in criminal events: defendants, police officers, prosecutors, and judges. We find that arrests increase by up to 15% on extremely hot days, driven by increases in violent crime rather than by changes in police behavior. We see no evidence that heat on the charging day impacts prosecutorial decisions, likely because prosecutors, like police officers, share emotional and cognitive burdens across team members. Working alone under time pressure, judges are less likely to dismiss cases, more likely to issue longer prison sentences, and more likely to levy higher fines when ruling on hot days. Our results suggest heat's negative impact on emotion and cognition leads to negative outcomes across situations and professions, even in Texas where air conditioning is nearly universal. We provide evidence that higher income, newer housing, more team work, and less accessible weapons may decrease the adverse effects of heat. Our adaptation-inclusive projections of the impact of future climate change suggest, however, that while adaptation will significantly mitigate future impacts, it will not eliminate them. Even with adaptation, climate change will likely also have substantial distributional consequences, with impacts on crime in more vulnerable communities up to 70% larger than in less vulnerable ones."
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 
-url_pdf: "files/BBB_GradMentalHealth.pdf"
+url_pdf: "files/Behrer_Bolotnyy_HeatCrime_HooverWP.pdf"
 url_code: '' 
 url_dataset: ''
 url_poster: ''
@@ -41,21 +38,21 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-links: 
-- icon:
-  icon_pack:
-  name: Slides
-  url: files/GradMentalHealth_Slides.pdf
+# links: 
+# - icon:
+#  icon_pack:
+#  name: Slides
+#  url: files/GradMentalHealth_Slides.pdf
 
-- icon: 
-  icon_pack: 
-  name: Student Survey
-  url: files/Student_MH_Survey.pdf
+# - icon: 
+#  icon_pack: 
+#  name: Student Survey
+#  url: files/Student_MH_Survey.pdf
   
-- icon:
-  icon_pack:
-  name: Faculty Survey
-  url: files/Faculty_MH_Survey.pdf
+# - icon:
+#  icon_pack:
+#  name: Faculty Survey
+#  url: files/Faculty_MH_Survey.pdf
 
 # url_custom: [{name = 'Student Survey', url = 'files/Student_MH_Survey.pdf'}]
 
@@ -81,10 +78,10 @@ projects: []
 slides: example
 ---
 
-<b>Coverage</b>:
 
-["Graduate School Can Have Terrible Effects on People's Mental Health"](https://www.theatlantic.com/education/archive/2018/11/anxiety-depression-mental-health-graduate-school/576769/) — *The Atlantic*
 
-["A Very Mixed Record on Grad Student Mental Health"](https://www.insidehighered.com/news/2018/12/06/new-research-graduate-student-mental-well-being-says-departments-have-important) — *Inside Higher Ed*
+# ["Graduate School Can Have Terrible Effects on People's Mental Health"](https://www.theatlantic.com/education/archive/2018/11/anxiety-depression-mental-health-graduate-# school/576769/) — *The Atlantic*
 
-["The Emotional Toll of Graduate School"](https://blogs.scientificamerican.com/observations/the-emotional-toll-of-graduate-school/) — *Scientific American Blog*
+# ["A Very Mixed Record on Grad Student Mental Health"](https://www.insidehighered.com/news/2018/12/06/new-research-graduate-student-mental-well-being-says-departments-have-important) — *Inside Higher Ed*
+
+# ["The Emotional Toll of Graduate School"](https://blogs.scientificamerican.com/observations/the-emotional-toll-of-graduate-school/) — *Scientific American Blog*
