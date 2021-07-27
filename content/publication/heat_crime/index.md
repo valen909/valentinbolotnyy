@@ -5,7 +5,7 @@ authors:
 - A. Patrick Behrer
 date: "2021-07-26T00:00:00Z"
 doi: ""
-publication: "Economics Working Paper 2114, *Hoover Institution Economics Working Paper Series*"
+publication: "Working Paper 2114, *Hoover Economics Working Paper Series*"
 profile: false
 
 # Schedule page publish date (NOT publication's date).
