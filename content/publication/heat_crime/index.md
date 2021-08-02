@@ -1,8 +1,8 @@
 ---
 title: "Heat, Crime, and Punishment"
 authors:
-- admin
 - A. Patrick Behrer
+- admin
 date: "2021-07-26T00:00:00Z"
 doi: ""
 publication: "Working Paper 2114, *Hoover Economics Working Paper Series*"
