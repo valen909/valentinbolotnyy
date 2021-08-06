@@ -10,7 +10,7 @@ external_link: "https://thehill.com/opinion/education/566558-to-address-collegia
 
 image:
   placement: 2
-  caption: 
+  caption: Getty Images
   focal_point: Smart
 
 links:
