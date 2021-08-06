@@ -1,6 +1,7 @@
 ---
 title: To Address Collegiate Mental Health, Start with Vaccine Mandates and In-Person Classes
-summary: "*The Hill* Op-ed with [Paul Barreira](https://www.christiecampus.com/who-we-are/our-team/paul-barreira). August 5th, 2021. *Changing culture around mental health will mean envisioning college as a space where academic excellence is closely intertwined with meaningful social relationships and thriving mental health.*"
+summary: "Op-ed with [Paul Barreira](https://www.christiecampus.com/who-we-are/our-team/paul-barreira). *The Hill*, August 5th, 2021. 
+*Changing culture around mental health will mean envisioning college as a space where academic excellence is closely intertwined with meaningful social relationships and thriving mental health.*"
 date: ""
 profile: false
 
