@@ -8,7 +8,7 @@ profile: false
 external_link: ""
 
 image:
-  placement: 2
+  placement: 
   caption: 
   focal_point: Smart
 
