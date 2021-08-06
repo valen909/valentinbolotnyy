@@ -7,10 +7,10 @@ profile: false
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  placement: 
-  caption: 
-  focal_point: Smart
+# image:
+#    placement: 2
+#    caption: 
+#    focal_point: Smart
 
 links:
 url_code: ""
