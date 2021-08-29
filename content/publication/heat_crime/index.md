@@ -3,9 +3,9 @@ title: "Heat, Crime, and Punishment"
 authors:
 - A. Patrick Behrer
 - admin
-date: "2021-07-26T00:00:00Z"
+date: "2021-08-27T00:00:00Z"
 doi: ""
-publication: "Working Paper 2114, *Hoover Economics Working Paper Series*"
+publication: "Working Paper"
 profile: false
 
 # Schedule page publish date (NOT publication's date).
@@ -21,15 +21,15 @@ profile: false
 # publication: "Forthcoming, *Journal of Economic Literature*(1)"
 # publication_short: ""
 
-abstract: "In much of the world, a rapidly changing climate will result in more frequent extreme temperatures. Using administrative criminal records from Texas, we show how heat affects the behavior of key individuals involved in criminal events: defendants, police officers, prosecutors, and judges. We find that arrests increase by up to 15% on extremely hot days, driven by increases in violent crime rather than by changes in police behavior. We see no evidence that heat on the charging day impacts prosecutorial decisions, likely because prosecutors, like police officers, share emotional and cognitive burdens across team members. Working alone under time pressure, judges are less likely to dismiss cases, more likely to issue longer prison sentences, and more likely to levy higher fines when ruling on hot days. Our results suggest heat's negative impact on emotion and cognition leads to negative outcomes across situations and professions, even in Texas where air conditioning is nearly universal. We provide evidence that higher income, newer housing, more team work, and less accessible weapons may decrease the adverse effects of heat. Our adaptation-inclusive projections of the impact of future climate change suggest, however, that while adaptation will significantly mitigate future impacts, it will not eliminate them. Even with adaptation, climate change will likely also have substantial distributional consequences, with impacts on crime in more vulnerable communities up to 70% larger than in less vulnerable ones."
+abstract: "Using administrative criminal records from Texas, we show how heat affects criminal defendants, police officers, prosecutors, and judges. We find that arrests increase by up to 15% on hot days, driven by increases in violent crime. We see no evidence that charging-day heat impacts prosecutorial decisions. However, working alone, judges dismiss fewer cases, issue longer prison sentences, and levy higher fines when ruling on hot days. Higher incomes, newer housing, more teamwork, and less accessible weapons may decrease the adverse effects of heat. Even with adaptation, we forecast that climate change will increase crime and have substantial distributional consequences."
 
 # Summary. An optional shortened abstract.
-summary: "In much of the world, a rapidly changing climate will result in more frequent extreme temperatures. Using administrative criminal records from Texas, we show how heat affects the behavior of key individuals involved in criminal events: defendants, police officers, prosecutors, and judges. We find that arrests increase by up to 15% on extremely hot days, driven by increases in violent crime rather than by changes in police behavior. We see no evidence that heat on the charging day impacts prosecutorial decisions, likely because prosecutors, like police officers, share emotional and cognitive burdens across team members. Working alone under time pressure, judges are less likely to dismiss cases, more likely to issue longer prison sentences, and more likely to levy higher fines when ruling on hot days. Our results suggest heat's negative impact on emotion and cognition leads to negative outcomes across situations and professions, even in Texas where air conditioning is nearly universal. We provide evidence that higher income, newer housing, more team work, and less accessible weapons may decrease the adverse effects of heat. Our adaptation-inclusive projections of the impact of future climate change suggest, however, that while adaptation will significantly mitigate future impacts, it will not eliminate them. Even with adaptation, climate change will likely also have substantial distributional consequences, with impacts on crime in more vulnerable communities up to 70% larger than in less vulnerable ones."
+summary: "Using administrative criminal records from Texas, we show how heat affects criminal defendants, police officers, prosecutors, and judges. We find that arrests increase by up to 15% on hot days, driven by increases in violent crime. We see no evidence that charging-day heat impacts prosecutorial decisions. However, working alone, judges dismiss fewer cases, issue longer prison sentences, and levy higher fines when ruling on hot days. Higher incomes, newer housing, more teamwork, and less accessible weapons may decrease the adverse effects of heat. Even with adaptation, we forecast that climate change will increase crime and have substantial distributional consequences."
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 
-url_pdf: "files/Behrer_Bolotnyy_HeatCrime_HooverWP.pdf"
+url_pdf: "files/BB_HeatCrime.pdf"
 url_code: '' 
 url_dataset: ''
 url_poster: ''
