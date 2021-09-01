@@ -2,8 +2,8 @@
 title: "Immigrant Intergenerational Mobility: A Focus on Childhood Environment"
 authors:
 - admin
-- Shoshana Vasserman
-date: "2021-08-27T00:00:01Z"
+- Cristina Bratu
+date: "2021-08-27T00:00:00Z"
 doi: ""
 publication: "*Working Paper*"
 profile: false
@@ -23,15 +23,15 @@ profile: false
 
 abstract: "We study how immigrant children integrate economically into a new society. Using administrative data from Sweden, we show that immigrant children who grow up in the 20th income percentile have incomes in adulthood that are about 12% lower than those of native children of similarly low-income parents. This
 income gap cannot be explained by differences in parent education levels, family structure, or municipality of residence. The gap can, however, be explained by differences in immediate, 100 x 100 square meter neighborhoods. Low-income
-immigrant children grow up in relatively denser neighborhoods with fewer highearning and native-born neighbors. Administrative data from Stockholm suggest that immigrant neighborhoods are also less desirable than the ones where low income
-natives live and have worse schools. While we cannot rule out selection as a driving force for these results, our evidence suggests that urban planning decisions, especially ones that limit access to housing, can be signifficant barriers to immigrant
+immigrant children grow up in relatively denser neighborhoods with fewer high-earning and native-born neighbors. Administrative data from Stockholm suggest that immigrant neighborhoods are also less desirable than the ones where low income
+natives live and have worse schools. While we cannot rule out selection as a driving force for these results, our evidence suggests that urban planning decisions, especially ones that limit access to housing, can be significant barriers to immigrant
 intergenerational mobility."
 
 # Summary. An optional shortened abstract.
 summary: "We study how immigrant children integrate economically into a new society. Using administrative data from Sweden, we show that immigrant children who grow up in the 20th income percentile have incomes in adulthood that are about 12% lower than those of native children of similarly low-income parents. This
 income gap cannot be explained by differences in parent education levels, family structure, or municipality of residence. The gap can, however, be explained by differences in immediate, 100 x 100 square meter neighborhoods. Low-income
-immigrant children grow up in relatively denser neighborhoods with fewer highearning and native-born neighbors. Administrative data from Stockholm suggest that immigrant neighborhoods are also less desirable than the ones where low income
-natives live and have worse schools. While we cannot rule out selection as a driving force for these results, our evidence suggests that urban planning decisions, especially ones that limit access to housing, can be signifficant barriers to immigrant
+immigrant children grow up in relatively denser neighborhoods with fewer high-earning and native-born neighbors. Administrative data from Stockholm suggest that immigrant neighborhoods are also less desirable than the ones where low income
+natives live and have worse schools. While we cannot rule out selection as a driving force for these results, our evidence suggests that urban planning decisions, especially ones that limit access to housing, can be significant barriers to immigrant
 intergenerational mobility."
 
 # tags:
