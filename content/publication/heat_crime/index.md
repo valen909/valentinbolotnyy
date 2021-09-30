@@ -3,7 +3,7 @@ title: "Heat, Crime, and Punishment"
 authors:
 - A. Patrick Behrer
 - admin
-date: "2021-09-15T00:00:01Z"
+date: "2021-09-30T00:00:01Z"
 doi: ""
 publication: "Working Paper"
 profile: false
