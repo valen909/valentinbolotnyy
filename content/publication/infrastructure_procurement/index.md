@@ -46,7 +46,7 @@ links:
 - icon:
   icon_pack:
   name: Policy Brief
-  url: files/bv_scalingauctions_brief.pdf
+  url: "files/bv_scalingauctions_brief.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
