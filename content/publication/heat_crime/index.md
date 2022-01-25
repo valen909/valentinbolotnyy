@@ -80,3 +80,7 @@ slides: example
 
 <b>Hoover Economics Working Paper Version</b>:
 https://www.hoover.org/sites/default/files/21114-bolotnyy.pdf
+
+
+<b>World Bank Policy Research Working Paper Version</b>:
+https://documents1.worldbank.org/curated/en/205651643052206856/pdf/Heat-Crime-and-Punishment.pdf
