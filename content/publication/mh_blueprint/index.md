@@ -52,6 +52,7 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
+links:
   - icon:
   icon_pack:
   name: Survey Instrument
