@@ -53,7 +53,7 @@ url_source: ''
 url_video: ''
 
 links:
-  - icon:
+- icon:
   icon_pack:
   name: Survey Instrument
   url: files/mh_survey_spring2020.pdf
