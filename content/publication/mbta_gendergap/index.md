@@ -5,7 +5,7 @@ authors:
 - Natalia Emanuel
 date: "2021-03-08T00:00:00Z"
 doi: ""
-publication: "Forthcoming, *Journal of Labor Economics*"
+publication: "*Journal of Labor Economics*"
 profile: false
 
 # Schedule page publish date (NOT publication's date).
