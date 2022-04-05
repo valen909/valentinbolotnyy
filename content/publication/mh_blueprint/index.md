@@ -52,6 +52,11 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
+  - icon:
+  icon_pack:
+  name: Survey Instrument
+  url: files/mh_survey_spring2020.pdf
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
