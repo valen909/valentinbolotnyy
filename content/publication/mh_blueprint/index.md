@@ -43,7 +43,7 @@ tags:
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "files/bb_mhblueprint.pdf"
+url_pdf: "files/bb_mh_blueprint.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
