@@ -71,7 +71,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-# <b>Coverage</b>:
-
-# ["Graduate School Can Have Terrible Effects on People's Mental Health"](https://www.theatlantic.com/education/archive/2018/11/anxiety-depression-mental-health-graduate-school/576769/) — *The Atlantic*
