@@ -50,6 +50,12 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
+links: 
+- icon:
+  icon_pack:
+  name: HBR Article
+  url: "https://hbr.org/2022/07/how-unpredictable-schedules-widen-the-gender-pay-gap?ab=hero-subleft-1"
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
