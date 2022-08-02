@@ -3,7 +3,7 @@ title: "Adapting to Heat: Evidence from the Texas Criminal Justice System"
 authors:
 - A. Patrick Behrer
 - admin
-date: "2022-07-27T00:00:01Z"
+date: "2022-08-02T00:00:01Z"
 doi: ""
 publication: "Working Paper"
 profile: false
