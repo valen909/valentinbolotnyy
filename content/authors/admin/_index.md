@@ -59,6 +59,4 @@ social:
 I am an economist and [Kleinheinz Fellow](https://www.hoover.org/profiles/valentin-bolotnyy) at Stanford University's Hoover Institution. I work on topics across public and labor economics, often forming research partnerships with government agencies to improve public services and gain insight into social behavior. I am also an [Affiliated Scholar](https://cddrl.fsi.stanford.edu/people/valentin-bolotnyy) with the Deliberative Democracy Lab at Stanford's Center on Democracy, Development and the Rule of Law (CDDRL).
 
 I received a PhD in Economics from Harvard University and a BA in Economics and International Relations from Stanford University.
-Email: vbolotnyy@stanford.edu <br> Office: Herbert Hoover Memorial Building (HHMB) 107 <br> 434 Galvez Mall <br> Stanford, CA 94305
-
-# I am an economist in year 3 of a [5-year research fellowship](https://www.hoover.org/hoover-fellows-program) at Stanford University's Hoover Institution. I work on topics across public and labor economics, often forming research partnerships with government agencies to improve public services and gain insight into social behavior. 
+Email: vbolotnyy@stanford.edu <br> Office: Herbert Hoover Memorial Building (HHMB) 107 <br> 434 Galvez Mall <br> Stanford, CA 94305 
