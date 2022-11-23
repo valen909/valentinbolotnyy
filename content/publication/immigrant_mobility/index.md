@@ -5,7 +5,7 @@ authors:
 - admin
 date: "2022-11-04T00:00:00Z"
 doi: ""
-publication: "*Forthcoming, European Economic Review*"
+publication: "Forthcoming, *European Economic Review*"
 profile: false
 
 # Schedule page publish date (NOT publication's date).
