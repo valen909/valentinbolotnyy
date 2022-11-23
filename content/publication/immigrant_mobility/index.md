@@ -3,9 +3,9 @@ title: "Immigrant Intergenerational Mobility: A Focus on Childhood Environment"
 authors:
 - Cristina Bratu
 - admin
-date: "2022-03-31T00:00:00Z"
+date: "2022-11-04T00:00:00Z"
 doi: ""
-publication: "*Working Paper*"
+publication: "*Forthcoming, European Economic Review*"
 profile: false
 
 # Schedule page publish date (NOT publication's date).
