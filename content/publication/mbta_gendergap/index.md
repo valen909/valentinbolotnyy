@@ -4,7 +4,7 @@ authors:
 - admin
 - Natalia Emanuel
 date: "2021-03-08T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1086/715835"
 publication: "*Journal of Labor Economics*"
 profile: false
 
