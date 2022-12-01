@@ -5,7 +5,7 @@ authors:
 - admin
 - Elizabeth Klee
 date: "2019-12-31T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.jmoneco.2019.12.006"
 publication: "*Journal of Monetary Economics*"
 profile: false
 
