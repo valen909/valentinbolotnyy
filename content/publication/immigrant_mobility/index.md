@@ -4,8 +4,8 @@ authors:
 - Cristina Bratu
 - admin
 date: "2022-11-04T00:00:00Z"
-doi: ""
-publication: "Forthcoming, *European Economic Review*"
+doi: "https://doi.org/10.1016/j.euroecorev.2022.104353"
+publication: "*European Economic Review*"
 profile: false
 
 # Schedule page publish date (NOT publication's date).
