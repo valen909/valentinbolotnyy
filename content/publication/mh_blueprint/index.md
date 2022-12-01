@@ -4,7 +4,7 @@ authors:
 - Paul Barreira
 - admin
 date: "2022-04-05T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1080/07448481.2022.2057804"
 publication: "*Journal of American College Health*"
 profile: false
 
