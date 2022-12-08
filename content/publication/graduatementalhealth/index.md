@@ -4,9 +4,9 @@ authors:
 - admin
 - Matthew Basilico
 - Paul Barreira 
-date: "2021-02-14T00:00:00Z"
-doi: ""
-publication: "Forthcoming, *Journal of Economic Literature*"
+date: "2022-12-07T00:00:00Z"
+doi: "10.1257/jel.20201555"
+publication: "*Journal of Economic Literature*"
 profile: false
 
 # Schedule page publish date (NOT publication's date).
