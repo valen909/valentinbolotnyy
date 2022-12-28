@@ -1,6 +1,6 @@
 ---
 title: Can Deliberative Discussions Heal Political Divides?
-summary: "Policy Story for [PolicyEd](https://www.policyed.org/). December 13th, 2022. *A national experiment called “American in One Room” brought together more than 500 randomly selected voters from around the country for a weekend of guided deliberation. Those who participated were more likely in the short run to moderate their political attitudes and more likely in the long run to engage in civil society.*"
+summary: "Policy Story for [PolicyEd](https://www.policyed.org/). December 13th, 2022. *A national experiment called “America in One Room” brought together more than 500 randomly selected voters from around the country for a weekend of guided deliberation. Those who participated were more likely in the short run to moderate their political attitudes and more likely in the long run to engage in civil society.*"
 date: ""
 profile: false
 
