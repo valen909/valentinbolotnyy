@@ -1,6 +1,6 @@
 ---
 title: Graduate School and Mental Health
-summary: "AEA Research Highlights Interview. February 21st, 2023. *I discussed graduate student mental health in economics and what universities can do to remedy the situation.*"
+summary: "AEA Research Highlights Interview. February 21st, 2023. *I discuss graduate student mental health and what students, faculty, and administrators can do to make things better.*"
 date: ""
 profile: false
 
