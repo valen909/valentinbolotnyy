@@ -1,11 +1,11 @@
 ---
 title: Graduate School and Mental Health
-summary: "AEA Research Highlights, Episode 60: Graduate School and Mental Health. February 21, 2023."
+summary: "AEA Research Highlights Interview. February 21st, 2023. *I discussed graduate student mental health in economics and what universities can do to remedy the situation.*"
 date: ""
 profile: false
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www-aeaweb-org.stanford.idm.oclc.org/research/mental-health-graduate-student-economics"
+external_link: "https://www.aeaweb.org/research/mental-health-graduate-student-economics"
 
 image:
   placement: 2
