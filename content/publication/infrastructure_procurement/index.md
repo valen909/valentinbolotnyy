@@ -3,9 +3,9 @@ title: "Scaling Auctions as Insurance: A Case Study in Infrastructure Procuremen
 authors:
 - admin
 - Shoshana Vasserman
-date: "2022-11-25T00:00:00Z"
+date: "2023-03-13T00:00:00Z"
 doi: ""
-publication: "*Working Paper*"
+publication: "Forthcoming, *Econometrica*"
 profile: false
 
 # Schedule page publish date (NOT publication's date).
