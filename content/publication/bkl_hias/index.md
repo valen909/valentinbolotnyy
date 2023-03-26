@@ -1,10 +1,10 @@
 ---
-title: "How Does Childhood Environment Shape Political Participation? Evidence from Refugees"
+title: "How Does Living Under Left-Wing Authoritarianism Affect Refugees Who Settle in Democracies? Evidence from Soviet Refugees"
 authors:
 - admin
 - Mayya Komisarchik
 - Brian Libgober
-date: "2022-07-18T00:00:01Z"
+date: "2023-03-16T00:00:01Z"
 doi: ""
 publication: "Working Paper"
 profile: false
@@ -22,15 +22,15 @@ profile: false
 # publication: "Forthcoming, *Journal of Economic Literature*(1)"
 # publication_short: ""
 
-abstract: "Where do the political behaviors and preferences of refugees come from? We compile a novel database of over 600,000 U.S. immigration records largely for refugees fleeing socialist dictatorships and link these records to national voter files. We show that an immigrant's origin country influences voting behavior and partisan preferences. Using a between-siblings design, we find that each additional year of time spent in the origin country is associated with an increased likelihood of voting in midterm (2.3%) and presidential elections (0.8%), as well as an increased likelihood of registering as a Republican in adulthood (2.2%). A Facebook survey of a comparable population reveals that immigrants who arrive in the U.S. at older ages look less like ideological partisans than people who arrive at younger ages. We propose four hypotheses for why more time in the origin country can manifest as increased civic engagement and conservatism once in the U.S."
+abstract: "We use data on Jewish refugees resettled in the United States between 1938 and 2005, along with survey data on Israeli citizens born in the Former Soviet Union, to demonstrate the persistent downstream political consequences of socialization under left-wing authoritarian regimes. Using a within-family research design that allows us to identify the effect of spending more time under left-wing authoritarianism relative to younger siblings, we show that additional years spent under such regimes result in a higher likelihood of voting and of identifying with right-wing political parties after immigration to democratic countries."
 
 # Summary. An optional shortened abstract.
-summary: "Where do the political behaviors and preferences of refugees come from? We compile a novel database of over 600,000 U.S. immigration records largely for refugees fleeing socialist dictatorships and link these records to national voter files. We show that an immigrant's origin country influences voting behavior and partisan preferences. Using a between-siblings design, we find that each additional year of time spent in the origin country is associated with an increased likelihood of voting in midterm (2.3%) and presidential elections (0.8%), as well as an increased likelihood of registering as a Republican in adulthood (2.2%). A Facebook survey of a comparable population reveals that immigrants who arrive in the U.S. at older ages look less like ideological partisans than people who arrive at younger ages. We propose four hypotheses for why more time in the origin country can manifest as increased civic engagement and conservatism once in the U.S."
+summary: "We use data on Jewish refugees resettled in the United States between 1938 and 2005, along with survey data on Israeli citizens born in the Former Soviet Union, to demonstrate the persistent downstream political consequences of socialization under left-wing authoritarian regimes. Using a within-family research design that allows us to identify the effect of spending more time under left-wing authoritarianism relative to younger siblings, we show that additional years spent under such regimes result in a higher likelihood of voting and of identifying with right-wing political parties after immigration to democratic countries."
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 
-url_pdf: "files/bkl_hias_july2022.pdf"
+url_pdf: "files/bkl_sovietrefugees.pdf"
 url_code: '' 
 url_dataset: ''
 url_poster: ''
