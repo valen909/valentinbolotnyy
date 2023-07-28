@@ -33,7 +33,7 @@ summary: "Most U.S. government spending on highways and bridges is done through 
 # links:
 # - name: ""
 # url:
-url_pdf: "files/bv_scalingauctions.pdf"
+url_pdf: "files/bv_scalingauctions_ecma.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
