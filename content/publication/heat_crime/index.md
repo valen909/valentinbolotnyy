@@ -1,9 +1,9 @@
 ---
-title: "Adapting to Heat: Evidence from the Texas Criminal Justice System"
+title: "Heat and Law Enforcement"
 authors:
 - A. Patrick Behrer
 - admin
-date: "2022-08-12T00:00:01Z"
+date: "2023-06-01T00:00:01Z"
 doi: ""
 publication: "Working Paper"
 profile: false
@@ -21,15 +21,15 @@ profile: false
 # publication: "Forthcoming, *Journal of Economic Literature*(1)"
 # publication_short: ""
 
-abstract: "Using administrative criminal records from Texas, we show how heat affects criminal defendants, police officers, prosecutors, and judges. We find that arrests increase by up to 15% on hot days, driven by increases in violent crime. We see no evidence that charging-day heat impacts prosecutorial decisions. However, largely working alone, judges dismiss fewer cases, issue longer prison sentences, and levy higher fines when ruling on hot days. Higher incomes, newer housing, more teamwork, and less accessible weapons may decrease these adverse effects of heat. Effects of future climate change are partially mitigated by adaptation, but uneven adaptation exacerbates inequality in the effects across locations."
+abstract: "Using administrative criminal records from Texas, we show how high temperatures affect the decision-making of police officers, prosecutors, and judges. We find that police reduce the number of arrests made per reported crime on the hottest days and that arrests made on these days are more likely to be dismissed in court. For prosecutors, high temperature on the day they announce criminal charges does not appear to affect the nature and severity of the charges. Judges, however, dismiss fewer cases, issue longer prison sentences, and levy higher fines when ruling on hot days. Our results suggest that the psychological and cognitive consequences of exposure to high temperatures have meaningful consequences for criminal defendants as they interact with the criminal justice system."
 
 # Summary. An optional shortened abstract.
-summary: "Using administrative criminal records from Texas, we show how heat affects criminal defendants, police officers, prosecutors, and judges. We find that arrests increase by up to 15% on hot days, driven by increases in violent crime. We see no evidence that charging-day heat impacts prosecutorial decisions. However, largely working alone, judges dismiss fewer cases, issue longer prison sentences, and levy higher fines when ruling on hot days. Higher incomes, newer housing, more teamwork, and less accessible weapons may decrease these adverse effects of heat. Effects of future climate change are partially mitigated by adaptation, but uneven adaptation exacerbates inequality in the effects across locations."
+summary: "Using administrative criminal records from Texas, we show how high temperatures affect the decision-making of police officers, prosecutors, and judges. We find that police reduce the number of arrests made per reported crime on the hottest days and that arrests made on these days are more likely to be dismissed in court. For prosecutors, high temperature on the day they announce criminal charges does not appear to affect the nature and severity of the charges. Judges, however, dismiss fewer cases, issue longer prison sentences, and levy higher fines when ruling on hot days. Our results suggest that the psychological and cognitive consequences of exposure to high temperatures have meaningful consequences for criminal defendants as they interact with the criminal justice system."
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 
-url_pdf: "files/BB_AdaptingtoHeat.pdf"
+url_pdf: "files/BB_HeatLawEnforcement.pdf"
 url_code: '' 
 url_dataset: ''
 url_poster: ''
