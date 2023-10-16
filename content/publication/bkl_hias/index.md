@@ -1,10 +1,10 @@
 ---
-title: "How Does Living Under Left-Wing Authoritarianism Affect Refugees Who Settle in Democracies? Evidence from Soviet Refugees"
+title: "Backlash Against Repression: Evidence from Refugees Fleeing the Former Soviet Bloc"
 authors:
 - admin
 - Mayya Komisarchik
 - Brian Libgober
-date: "2023-03-16T00:00:01Z"
+date: "2023-10-16T00:00:01Z"
 doi: ""
 publication: "Working Paper"
 profile: false
@@ -22,15 +22,15 @@ profile: false
 # publication: "Forthcoming, *Journal of Economic Literature*(1)"
 # publication_short: ""
 
-abstract: "We use data on Jewish refugees resettled in the United States between 1938 and 2005, along with survey data on Israeli citizens born in the Former Soviet Union, to demonstrate the persistent downstream political consequences of socialization under left-wing authoritarian regimes. Using a within-family research design that allows us to identify the effect of spending more time under left-wing authoritarianism relative to younger siblings, we show that additional years spent under such regimes result in a higher likelihood of voting and of identifying with right-wing political parties after immigration to democratic countries."
+abstract: "Using administrative data on Jewish refugees fleeing the Former Soviet Bloc for the United States between 1955 and 2000, along with survey data on Israeli citizens born in the Former Soviet Bloc, we demonstrate persistent downstream political consequences of living as a targeted minority under a repressive, communist regime. Using a within-family research design, we show that individuals who spent longer periods living under a Soviet Bloc government are more likely to engage in backlash against the regime that oppressed them by (1) being more likely to vote in their new democratic countries and (2) affiliating with right-wing political parties most unlike ruling regimes in their origin countries."
 
 # Summary. An optional shortened abstract.
-summary: "We use data on Jewish refugees resettled in the United States between 1938 and 2005, along with survey data on Israeli citizens born in the Former Soviet Union, to demonstrate the persistent downstream political consequences of socialization under left-wing authoritarian regimes. Using a within-family research design that allows us to identify the effect of spending more time under left-wing authoritarianism relative to younger siblings, we show that additional years spent under such regimes result in a higher likelihood of voting and of identifying with right-wing political parties after immigration to democratic countries."
+summary: "Using administrative data on Jewish refugees fleeing the Former Soviet Bloc for the United States between 1955 and 2000, along with survey data on Israeli citizens born in the Former Soviet Bloc, we demonstrate persistent downstream political consequences of living as a targeted minority under a repressive, communist regime. Using a within-family research design, we show that individuals who spent longer periods living under a Soviet Bloc government are more likely to engage in backlash against the regime that oppressed them by (1) being more likely to vote in their new democratic countries and (2) affiliating with right-wing political parties most unlike ruling regimes in their origin countries."
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 
-url_pdf: "files/bkl_sovietrefugees.pdf"
+url_pdf: "files/bkl_hias_oct2023.pdf"
 url_code: '' 
 url_dataset: ''
 url_poster: ''
