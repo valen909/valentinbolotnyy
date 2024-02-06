@@ -7,7 +7,7 @@ authors:
 - Alice Siu
 - Norman Bradburn
 date: "2024-02-06T00:00:00Z"
-doi: "https://doi.org/10.1017/S0003055423001363"
+# doi: "https://doi.org/10.1017/S0003055423001363"
 publication: "*American Political Science Review*"
 profile: false
 
@@ -36,7 +36,8 @@ summary: "Does deliberation produce any lasting effects? â€œAmerica in One Roomâ
 # links:
 # - name: ""
 # url:
-url_pdf: "files/a1r_texas_apsr.pdf"
+url_pdf: "https://doi.org/10.1017/S0003055423001363" 
+# "files/a1r_lastingeffects.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
