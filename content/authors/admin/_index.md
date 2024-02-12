@@ -56,7 +56,7 @@ social:
 # - Visitors
 ---
 
-I am an economist and [Kleinheinz Fellow](https://www.hoover.org/profiles/valentin-bolotnyy) at Stanford University's Hoover Institution where I help lead the [State and Local Governance Initiative](https://www.hoover.org/research-teams/state-and-local-governance-initiative). I work on topics across public and labor economics, often forming research partnerships with government agencies to improve public services and gain insight into social behavior. I am also a [Research Affiliate](https://www.iza.org/people/affiliates/32715/valentin-bolotnyy) at the Institute of Labor Economics (IZA) and an [Affiliated Scholar](https://cddrl.fsi.stanford.edu/people/valentin-bolotnyy) with the Deliberative Democracy Lab at Stanford's Center on Democracy, Development and the Rule of Law (CDDRL).
+I am a [Kleinheinz Fellow](https://www.hoover.org/profiles/valentin-bolotnyy) at Stanford University's Hoover Institution where I am a member of the [State and Local Governance Initiative](https://www.hoover.org/research-teams/state-and-local-governance-initiative). I work on topics across public and labor economics, often forming research partnerships with government agencies to improve public services and gain insight into social behavior. I am also a [Research Affiliate](https://www.iza.org/people/affiliates/32715/valentin-bolotnyy) at the Institute of Labor Economics (IZA) and an [Affiliated Scholar](https://cddrl.fsi.stanford.edu/people/valentin-bolotnyy) with the Deliberative Democracy Lab at Stanford's Center on Democracy, Development and the Rule of Law (CDDRL).
 
 I received a PhD in Economics from Harvard University and a BA in Economics and International Relations from Stanford University.
 
